@@ -7,9 +7,8 @@
 - *todo: Delete this section if there are no linked PRs*
 
 #### Testing
-- [ ] Running on dev since *todo: Rough date deployed to dev*
-- [ ] Unit tests
-- [ ] Test coverage increased from *todo* to *todo*
+- Unit tests
+- [ ] Manually tested on development
 - [ ] *todo: Other manual testing?*
 
 #### Deployment Plan
@@ -20,7 +19,7 @@
 - [ ] Deploy *todo: Second service, etc*
 
 #### Post deployment testing plan
-- [ ] *todo: How to check that it's working*
+- [ ] *todo: How you'll check that it's working after you deploy it*
 
 #### Rollback plan
 - [ ] Deploy previous version
