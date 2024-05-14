@@ -1,10 +1,12 @@
 #### Link to Jira: https://samdesk.atlassian.net/browse/DEV-*ISSUE_NUMBER*
 
-#### Change description
+#### Change description (can see Jira for full details, here we just need a jot note or two)
 - *todo*
 
 #### Linked PRs
-- *todo: Delete this section if there are no linked PRs*
+- *todo: Delete this section if there are no linked PRs. 
+
+*If this PR is part of the deployment plan for one of the linked PRs, state that and delete everything below this line.*
 
 #### Testing
 - Unit tests
